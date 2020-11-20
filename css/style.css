@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800&display=swap');
+
+#navlink{
+    color: black;
+    font-size: 16px;
+}
+#navlink:hover{
+    color: #e79258;
+    transition: 0.5s;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+}
+
+#btnstyle{
+    border-radius: 50px;
+    font-size: 20px;
+}
+.headertext{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+
+}
+.colorit{
+    color: rgb(26, 91, 194);
+    font-weight: bold;
+}
+.imgvideo{
+    border-radius: 16px;
+    width: 90%;
+    height: auto;
+    opacity: 0.8;
+}
+.playbutton{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 48%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+}
+.gridset{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gridimg{
+    width: 60px;
+    height: 60px;
+}
+.grindstyle{
+    background-color:#FC786D;
+    padding: 10px;
+    position: relative;
+    left: 18px;
+}
+.gridtext{
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    height:  100%;
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 2px grey;
+}
+
+.a1{
+    display: flex;
+    justify-content: center;    
+    padding-top: 2px;
+}
+
+.booklover{
+    width: 70%;
+    height: auto;
+}
+
+#textcenter{
+    text-align: center;
+}
+#btnstyle1{
+    border-radius: 16px;
+    font-size: 18px;
+}
+.marginsection{
+    margin: 8rem 0rem;
+}   
+.para{
+    font-size: 1.5rem;
+    font-family: Poppins;
+}
+.imgslide{
+    border-radius: 16px;
+    width: 70%;
+    height: auto;
+    opacity: 0.8;
+    margin-left: 92px;
+}
+
