@@ -80,7 +80,7 @@
     height: auto;
 }
 
-#textcenter{
+#textcenter{    
     text-align: center;
 }
 #btnstyle1{
@@ -102,3 +102,12 @@
     margin-left: 92px;
 }
 
+.apllyflex{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.gridimg1{
+    width: 100px;
+    height: 100px;
+}
